@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talkToSomeOne/static/css/main.6bf6e1ee.css",
+    "main.js": "/talkToSomeOne/static/js/main.58fc7cde.js",
+    "static/js/787.28cb0dcd.chunk.js": "/talkToSomeOne/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/talkToSomeOne/index.html",
+    "main.6bf6e1ee.css.map": "/talkToSomeOne/static/css/main.6bf6e1ee.css.map",
+    "main.58fc7cde.js.map": "/talkToSomeOne/static/js/main.58fc7cde.js.map",
+    "787.28cb0dcd.chunk.js.map": "/talkToSomeOne/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf6e1ee.css",
+    "static/js/main.58fc7cde.js"
+  ]
+}
