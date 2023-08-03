@@ -1,0 +1,23 @@
+.navBar{
+    background-color:indianred;
+    height:10vh;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:center; */
+    align-items:center;
+    padding:20px;
+}
+.icon{
+    margin-right:20px;
+    font-size:40px;
+    color:#ffffff;
+}
+.heading{
+    font-size:20px;
+    font-family:"Roboto";
+    color:#ffffff;
+}
+.menu-button{
+    background-color:transparent;
+    border-width:0px;
+}

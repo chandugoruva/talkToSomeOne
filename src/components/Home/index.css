@@ -1,0 +1,186 @@
+.main-div{
+    display:flex;
+    flex-direction:row;
+    /* justify-content:center; */
+    align-items:center;
+}
+.home-div{
+    height:100vh;
+    width:100vw;
+}
+.bg-color-light{
+    background-color:#ffffff;
+}
+.bg-color-dark{
+    background-color:#000000;
+}
+.add-button{
+    background-color:coral;
+    border-radius:20px;
+    border-width:0px;
+    
+}
+.button-flex{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+.icon3{
+    font-size:40px;
+    color:#ffffff;
+}
+.popup-container {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    min-height: 40vh;
+    min-width:40vw;
+    background-color:aliceblue;
+}
+.input2{
+    min-width:130px;
+    height:20px;
+    border:2px orange solid;
+    outline:none;
+    border-radius:6px;
+}
+.trigger-button {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto';
+    color: white;
+    padding: 8px 15px 8px 15px;
+    margin: 8px;
+    background-color: #7c69e9;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+.trigger-button2 {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto';
+    color: white;
+    padding: 8px 15px 8px 15px;
+    margin: 8px;
+    background-color: red;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+   }
+.option-div{
+    background-color:antiquewhite;
+    height:100vh;
+    width:60vw;
+    
+}
+.options-header{
+    background-color:coral;
+    height:10vh;
+    padding:20px;
+}
+
+.looking-div{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
+    align-items:flex-end;
+}
+.options-button{
+    font-size:20px;
+    background-color:transparent;
+    border-width:0px;
+    color:#ffffff;
+    font-family:"Roboto";
+    margin:20px;
+}
+.looking-options{
+    background-color:transparent;
+    border-width:0px;
+    outline:none;
+    font-size:20px;
+    margin:20px;
+    font-family:"Roboto";
+}
+.hr{
+    margin-left:20px;
+}
+.label2{
+    font-size:20px;
+    font-family:"Roboto";
+    /* color:#ffffff; */
+    margin-left:20px;
+    font-size:23px;
+}
+.options-div{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center; 
+}
+.age-options{
+    background-color:transparent;
+    border-width:0px;
+    outline:none;
+    font-size:23px;
+    margin:20px;
+    font-family:"Roboto";
+
+}
+.facebook-icon{
+    background-color:#3b5998;
+    border-radius:10px;
+    height:30px;
+    width:30px;
+    color:#ffffff;
+    padding:10px;
+    margin-right:10px;
+}
+.microsoft-icon{
+    color:aquamarine;
+    font-size:40px;
+    margin-right:10px;
+
+
+}
+.skype-icon{
+    color:chocolate;
+    font-size:40px;
+    margin-right:10px;
+}
+.link-accounts{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+}
+.icons{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+.button-logout{
+    background-color:transparent;
+    font-family:"Roboto";
+    border-width:0px;
+    font-size:23px;
+    margin-left:10px;
+}
+.button-delete-all-strangers{
+    background-color:transparent;
+    font-family:"Roboto";
+    border-width:0px;
+    font-size:23px;
+    margin-left:10px;
+    margin-bottom:10px;
+}
+.button-send-feedback{
+    background-color:transparent;
+    font-family:"Roboto";
+    border-width:0px;
+    font-size:23px;
+    margin-left:10px;
+}
